@@ -24,5 +24,39 @@ This repository contains 10 case studies selected from the faculty-provided list
 | 63 | Multi-Product Price Fluctuation Analysis | `Case_63_multi-product-price-fluctuation-analysis` |
 | 66 | Student Academic Risk Classification | `Case_66_student-academic-risk-classification` |
 | 84 | Environmental Monitoring Data Analyzer | `Case_84_environmental-monitoring-data-analyzer` |
+   
+## Python Topics Covered
+
+- Computational Thinking
+- Algorithms
+- Flowcharts
+- Pseudocode
+- Variables and Data Types
+- Operators and Expressions
+- Conditional Statements
+- Looping Statements
+- Strings and String Operations
+- Pattern Generation
+- Lists and Nested Lists
+- Tuples and Tuple Operations
+- Tuple Unpacking
+
+## Technologies Used
+
+- Python 3
+- Visual Studio Code
+
+## Learning Outcomes
+
+- Understanding fundamental Python programming concepts.
+- Developing logical and problem-solving skills.
+- Designing algorithms and flowcharts.
+- Applying conditional statements and loops.
+- Working with lists, tuples, and strings.
+- Solving real-world problems using Python.
+
+## Conclusion
+
+These 10 case studies helped develop practical programming knowledge and improve logical thinking by applying fundamental Python concepts to real-world scenarios.
 
 
