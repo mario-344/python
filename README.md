@@ -1,4 +1,4 @@
-# python
+
 # Python Activity-Based Learning
 
 **Repository name required by the assignment:** `Python-Activity-Based-Learning`
